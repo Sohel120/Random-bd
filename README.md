@@ -1,2 +1,9 @@
-# Random-bd
-rm -rf BDMC  git clone --depth=1 https://github.com/Sohel120.github.com/BDSR.git  git pull  cd BDMC  python3 BDSR.py
+rm -rf  Random-bd
+
+git clone --depth=1 https://github.com:Sohel120/Random-bd.git
+
+git pull
+
+cd Random-bd
+
+python3 Random-bd.py
